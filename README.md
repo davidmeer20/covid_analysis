@@ -1,2 +1,2 @@
 # covid_analysis
-Covid trend analysis is an underlying for investments 
+Covid trend analysis as an underlying for investments 
